@@ -1,0 +1,5548 @@
+
+
+-------------------------------------------------------------------
+--------------------------- OVERVIEW ------------------------------
+-------------------------------------------------------------------
+
+
+
+***************************************************
+
+Total Energy Consumption-  255013.98999999996 kw
+Total Duration  -  282810.0 mins
+Maximum Duration-  2190.0 mins
+Comment on Cycle Start for given Off-Val 2
+Comment on Cycle End for given Off-Val 5
+
+***************************************************
+
+
+
+-------------------------------------------------------------------
+--------------------------- INSIGHTS ------------------------------
+-------------------------------------------------------------------
+
+
+
+***************************************************
+
+--CYCLE No.  1 
+
+Energy Consumption-  718.94 kw
+Start Time-  01-04-2017 09:30
+End Time  -  01-04-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  30.83 kw
+Minimum Value-  21.86 kw
+Median Value-  26.21 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  2 
+
+Energy Consumption-  716.59 kw
+Start Time-  02-04-2017 09:30
+End Time  -  02-04-2017 23:00
+Duration  -  840.0 mins
+Maximum Value-  29.56 kw
+Minimum Value-  21.46 kw
+Median Value-  25.665 kw
+Next Cycle After-  570.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  3 
+
+Energy Consumption-  690.52 kw
+Start Time-  03-04-2017 09:00
+End Time  -  03-04-2017 22:30
+Duration  -  840.0 mins
+Maximum Value-  30.91 kw
+Minimum Value-  17.89 kw
+Median Value-  24.525 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  4 
+
+Energy Consumption-  576.31 kw
+Start Time-  04-04-2017 09:30
+End Time  -  04-04-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  29.81 kw
+Minimum Value-  18.01 kw
+Median Value-  21.72 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  5 
+
+Energy Consumption-  598.41 kw
+Start Time-  05-04-2017 10:00
+End Time  -  05-04-2017 22:00
+Duration  -  750.0 mins
+Maximum Value-  27.49 kw
+Minimum Value-  17.62 kw
+Median Value-  24.79 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  6 
+
+Energy Consumption-  636.0 kw
+Start Time-  06-04-2017 09:30
+End Time  -  06-04-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  28.28 kw
+Minimum Value-  17.26 kw
+Median Value-  23.97 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  7 
+
+Energy Consumption-  650.51 kw
+Start Time-  07-04-2017 09:30
+End Time  -  07-04-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  28.74 kw
+Minimum Value-  15.38 kw
+Median Value-  24.26 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  8 
+
+Energy Consumption-  685.86 kw
+Start Time-  08-04-2017 09:30
+End Time  -  08-04-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  30.01 kw
+Minimum Value-  16.77 kw
+Median Value-  25.74 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  9 
+
+Energy Consumption-  650.81 kw
+Start Time-  09-04-2017 09:30
+End Time  -  09-04-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  30.94 kw
+Minimum Value-  17.9 kw
+Median Value-  25.225 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  10 
+
+Energy Consumption-  646.44 kw
+Start Time-  10-04-2017 09:00
+End Time  -  10-04-2017 22:00
+Duration  -  810.0 mins
+Maximum Value-  30.1 kw
+Minimum Value-  17.49 kw
+Median Value-  23.66 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  11 
+
+Energy Consumption-  641.17 kw
+Start Time-  11-04-2017 09:30
+End Time  -  11-04-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  29.62 kw
+Minimum Value-  15.26 kw
+Median Value-  24.12 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  12 
+
+Energy Consumption-  657.6 kw
+Start Time-  12-04-2017 09:30
+End Time  -  12-04-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  29.29 kw
+Minimum Value-  16.05 kw
+Median Value-  25.14 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  13 
+
+Energy Consumption-  637.98 kw
+Start Time-  13-04-2017 09:30
+End Time  -  13-04-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  30.8 kw
+Minimum Value-  18.54 kw
+Median Value-  24.755000000000003 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  14 
+
+Energy Consumption-  654.68 kw
+Start Time-  14-04-2017 09:30
+End Time  -  14-04-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  30.02 kw
+Minimum Value-  17.82 kw
+Median Value-  25.125 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  15 
+
+Energy Consumption-  643.94 kw
+Start Time-  15-04-2017 09:30
+End Time  -  15-04-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  29.29 kw
+Minimum Value-  18.67 kw
+Median Value-  24.625 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  16 
+
+Energy Consumption-  649.78 kw
+Start Time-  16-04-2017 09:30
+End Time  -  16-04-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  28.14 kw
+Minimum Value-  19.91 kw
+Median Value-  24.26 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  17 
+
+Energy Consumption-  626.81 kw
+Start Time-  17-04-2017 09:00
+End Time  -  17-04-2017 21:00
+Duration  -  750.0 mins
+Maximum Value-  29.05 kw
+Minimum Value-  17.83 kw
+Median Value-  25.9 kw
+Next Cycle After-  750.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  18 
+
+Energy Consumption-  604.29 kw
+Start Time-  18-04-2017 10:00
+End Time  -  18-04-2017 22:30
+Duration  -  780.0 mins
+Maximum Value-  29.74 kw
+Minimum Value-  15.95 kw
+Median Value-  22.685000000000002 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  19 
+
+Energy Consumption-  629.15 kw
+Start Time-  19-04-2017 09:30
+End Time  -  19-04-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  31.2 kw
+Minimum Value-  15.21 kw
+Median Value-  24.36 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  20 
+
+Energy Consumption-  665.66 kw
+Start Time-  20-04-2017 09:30
+End Time  -  20-04-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  30.74 kw
+Minimum Value-  17.27 kw
+Median Value-  24.57 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  21 
+
+Energy Consumption-  613.55 kw
+Start Time-  21-04-2017 09:00
+End Time  -  21-04-2017 22:00
+Duration  -  810.0 mins
+Maximum Value-  29.36 kw
+Minimum Value-  16.37 kw
+Median Value-  22.88 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  22 
+
+Energy Consumption-  638.27 kw
+Start Time-  22-04-2017 09:30
+End Time  -  22-04-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  28.21 kw
+Minimum Value-  15.4 kw
+Median Value-  23.78 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  23 
+
+Energy Consumption-  662.83 kw
+Start Time-  23-04-2017 09:30
+End Time  -  23-04-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  28.42 kw
+Minimum Value-  16.7 kw
+Median Value-  25.43 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  24 
+
+Energy Consumption-  650.66 kw
+Start Time-  24-04-2017 09:00
+End Time  -  24-04-2017 22:00
+Duration  -  810.0 mins
+Maximum Value-  29.34 kw
+Minimum Value-  19.43 kw
+Median Value-  24.89 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  25 
+
+Energy Consumption-  650.0 kw
+Start Time-  25-04-2017 09:30
+End Time  -  25-04-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  29.96 kw
+Minimum Value-  17.25 kw
+Median Value-  25.62 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  26 
+
+Energy Consumption-  623.84 kw
+Start Time-  26-04-2017 09:30
+End Time  -  26-04-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  28.56 kw
+Minimum Value-  19.2 kw
+Median Value-  24.085 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  27 
+
+Energy Consumption-  658.83 kw
+Start Time-  27-04-2017 09:30
+End Time  -  27-04-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  32.77 kw
+Minimum Value-  16.99 kw
+Median Value-  25.22 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  28 
+
+Energy Consumption-  617.9 kw
+Start Time-  28-04-2017 09:30
+End Time  -  28-04-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  28.73 kw
+Minimum Value-  16.67 kw
+Median Value-  24.21 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  29 
+
+Energy Consumption-  581.13 kw
+Start Time-  29-04-2017 09:30
+End Time  -  29-04-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  29.15 kw
+Minimum Value-  17.8 kw
+Median Value-  22.07 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  30 
+
+Energy Consumption-  614.66 kw
+Start Time-  30-04-2017 09:30
+End Time  -  30-04-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  28.96 kw
+Minimum Value-  15.51 kw
+Median Value-  24.19 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  31 
+
+Energy Consumption-  586.76 kw
+Start Time-  01-05-2017 09:00
+End Time  -  01-05-2017 21:00
+Duration  -  750.0 mins
+Maximum Value-  27.98 kw
+Minimum Value-  15.8 kw
+Median Value-  24.01 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  32 
+
+Energy Consumption-  649.24 kw
+Start Time-  02-05-2017 09:30
+End Time  -  02-05-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  29.81 kw
+Minimum Value-  15.85 kw
+Median Value-  24.11 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  33 
+
+Energy Consumption-  686.03 kw
+Start Time-  03-05-2017 09:30
+End Time  -  03-05-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  35.11 kw
+Minimum Value-  18.58 kw
+Median Value-  26.865000000000002 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  34 
+
+Energy Consumption-  672.15 kw
+Start Time-  04-05-2017 09:30
+End Time  -  04-05-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  33.49 kw
+Minimum Value-  17.46 kw
+Median Value-  24.64 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  35 
+
+Energy Consumption-  679.96 kw
+Start Time-  05-05-2017 09:30
+End Time  -  05-05-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  31.16 kw
+Minimum Value-  19.94 kw
+Median Value-  24.6 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  36 
+
+Energy Consumption-  748.41 kw
+Start Time-  06-05-2017 09:30
+End Time  -  06-05-2017 23:30
+Duration  -  870.0 mins
+Maximum Value-  34.42 kw
+Minimum Value-  17.2 kw
+Median Value-  26.2 kw
+Next Cycle After-  570.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  37 
+
+Energy Consumption-  632.27 kw
+Start Time-  07-05-2017 09:30
+End Time  -  07-05-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  30.18 kw
+Minimum Value-  18.49 kw
+Median Value-  24.765 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  38 
+
+Energy Consumption-  596.69 kw
+Start Time-  08-05-2017 09:00
+End Time  -  08-05-2017 22:00
+Duration  -  810.0 mins
+Maximum Value-  29.34 kw
+Minimum Value-  16.74 kw
+Median Value-  20.95 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  39 
+
+Energy Consumption-  645.97 kw
+Start Time-  09-05-2017 09:00
+End Time  -  09-05-2017 22:00
+Duration  -  810.0 mins
+Maximum Value-  31.12 kw
+Minimum Value-  17.74 kw
+Median Value-  24.23 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  40 
+
+Energy Consumption-  644.31 kw
+Start Time-  10-05-2017 09:30
+End Time  -  10-05-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  28.94 kw
+Minimum Value-  19.55 kw
+Median Value-  23.51 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  41 
+
+Energy Consumption-  677.41 kw
+Start Time-  11-05-2017 09:00
+End Time  -  11-05-2017 23:00
+Duration  -  870.0 mins
+Maximum Value-  29.37 kw
+Minimum Value-  15.6 kw
+Median Value-  23.46 kw
+Next Cycle After-  570.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  42 
+
+Energy Consumption-  674.65 kw
+Start Time-  12-05-2017 09:00
+End Time  -  12-05-2017 22:30
+Duration  -  840.0 mins
+Maximum Value-  28.86 kw
+Minimum Value-  18.74 kw
+Median Value-  24.494999999999997 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  43 
+
+Energy Consumption-  670.81 kw
+Start Time-  13-05-2017 09:30
+End Time  -  13-05-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  32.1 kw
+Minimum Value-  17.16 kw
+Median Value-  24.45 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  44 
+
+Energy Consumption-  672.77 kw
+Start Time-  14-05-2017 09:30
+End Time  -  14-05-2017 23:00
+Duration  -  840.0 mins
+Maximum Value-  31.03 kw
+Minimum Value-  15.84 kw
+Median Value-  23.735 kw
+Next Cycle After-  570.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  45 
+
+Energy Consumption-  628.57 kw
+Start Time-  15-05-2017 09:00
+End Time  -  15-05-2017 22:30
+Duration  -  840.0 mins
+Maximum Value-  30.38 kw
+Minimum Value-  15.52 kw
+Median Value-  21.895 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  46 
+
+Energy Consumption-  613.15 kw
+Start Time-  16-05-2017 09:00
+End Time  -  16-05-2017 22:00
+Duration  -  810.0 mins
+Maximum Value-  29.15 kw
+Minimum Value-  16.06 kw
+Median Value-  23.16 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  47 
+
+Energy Consumption-  659.6 kw
+Start Time-  17-05-2017 09:30
+End Time  -  17-05-2017 23:00
+Duration  -  840.0 mins
+Maximum Value-  30.88 kw
+Minimum Value-  16.38 kw
+Median Value-  22.995 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  48 
+
+Energy Consumption-  659.6 kw
+Start Time-  18-05-2017 09:30
+End Time  -  18-05-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  31.74 kw
+Minimum Value-  18.77 kw
+Median Value-  23.74 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  49 
+
+Energy Consumption-  640.15 kw
+Start Time-  19-05-2017 09:00
+End Time  -  19-05-2017 23:00
+Duration  -  870.0 mins
+Maximum Value-  28.73 kw
+Minimum Value-  15.29 kw
+Median Value-  22.07 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  50 
+
+Energy Consumption-  676.54 kw
+Start Time-  20-05-2017 09:30
+End Time  -  20-05-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  31.7 kw
+Minimum Value-  15.72 kw
+Median Value-  25.74 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  51 
+
+Energy Consumption-  710.12 kw
+Start Time-  21-05-2017 09:30
+End Time  -  21-05-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  33.32 kw
+Minimum Value-  17.42 kw
+Median Value-  26.47 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  52 
+
+Energy Consumption-  664.04 kw
+Start Time-  22-05-2017 09:00
+End Time  -  22-05-2017 22:30
+Duration  -  840.0 mins
+Maximum Value-  29.19 kw
+Minimum Value-  15.93 kw
+Median Value-  23.634999999999998 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  53 
+
+Energy Consumption-  619.19 kw
+Start Time-  23-05-2017 09:30
+End Time  -  23-05-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  31.39 kw
+Minimum Value-  16.73 kw
+Median Value-  24.145 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  54 
+
+Energy Consumption-  671.85 kw
+Start Time-  24-05-2017 09:30
+End Time  -  24-05-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  33.72 kw
+Minimum Value-  17.55 kw
+Median Value-  24.76 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  55 
+
+Energy Consumption-  701.41 kw
+Start Time-  25-05-2017 09:30
+End Time  -  25-05-2017 23:00
+Duration  -  840.0 mins
+Maximum Value-  30.62 kw
+Minimum Value-  17.22 kw
+Median Value-  25.265 kw
+Next Cycle After-  570.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  56 
+
+Energy Consumption-  717.25 kw
+Start Time-  26-05-2017 09:00
+End Time  -  26-05-2017 22:30
+Duration  -  840.0 mins
+Maximum Value-  31.86 kw
+Minimum Value-  17.85 kw
+Median Value-  26.165 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  57 
+
+Energy Consumption-  743.41 kw
+Start Time-  27-05-2017 09:30
+End Time  -  27-05-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  33.27 kw
+Minimum Value-  20.5 kw
+Median Value-  28.11 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  58 
+
+Energy Consumption-  704.13 kw
+Start Time-  28-05-2017 09:30
+End Time  -  28-05-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  31.11 kw
+Minimum Value-  18.89 kw
+Median Value-  25.7 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  59 
+
+Energy Consumption-  626.87 kw
+Start Time-  29-05-2017 09:00
+End Time  -  29-05-2017 22:00
+Duration  -  810.0 mins
+Maximum Value-  29.95 kw
+Minimum Value-  17.3 kw
+Median Value-  22.66 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  60 
+
+Energy Consumption-  629.46 kw
+Start Time-  30-05-2017 09:30
+End Time  -  30-05-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  31.54 kw
+Minimum Value-  18.74 kw
+Median Value-  23.09 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  61 
+
+Energy Consumption-  711.63 kw
+Start Time-  31-05-2017 09:00
+End Time  -  31-05-2017 22:30
+Duration  -  840.0 mins
+Maximum Value-  31.69 kw
+Minimum Value-  18.26 kw
+Median Value-  25.22 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  62 
+
+Energy Consumption-  616.83 kw
+Start Time-  01-06-2017 09:30
+End Time  -  01-06-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  27.65 kw
+Minimum Value-  18.67 kw
+Median Value-  22.14 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  63 
+
+Energy Consumption-  652.27 kw
+Start Time-  02-06-2017 09:30
+End Time  -  02-06-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  30.28 kw
+Minimum Value-  20.29 kw
+Median Value-  25.115000000000002 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  64 
+
+Energy Consumption-  661.26 kw
+Start Time-  03-06-2017 09:30
+End Time  -  03-06-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  29.62 kw
+Minimum Value-  17.21 kw
+Median Value-  24.4 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  65 
+
+Energy Consumption-  648.39 kw
+Start Time-  04-06-2017 09:30
+End Time  -  04-06-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  31.02 kw
+Minimum Value-  19.76 kw
+Median Value-  22.76 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  66 
+
+Energy Consumption-  541.74 kw
+Start Time-  05-06-2017 09:00
+End Time  -  05-06-2017 21:00
+Duration  -  750.0 mins
+Maximum Value-  29.57 kw
+Minimum Value-  15.42 kw
+Median Value-  21.06 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  67 
+
+Energy Consumption-  556.27 kw
+Start Time-  06-06-2017 09:30
+End Time  -  06-06-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  28.66 kw
+Minimum Value-  16.78 kw
+Median Value-  22.96 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  68 
+
+Energy Consumption-  560.88 kw
+Start Time-  07-06-2017 09:30
+End Time  -  07-06-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  31.61 kw
+Minimum Value-  18.43 kw
+Median Value-  22.735 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  69 
+
+Energy Consumption-  575.98 kw
+Start Time-  08-06-2017 09:30
+End Time  -  08-06-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  30.15 kw
+Minimum Value-  15.68 kw
+Median Value-  22.82 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  70 
+
+Energy Consumption-  585.7 kw
+Start Time-  09-06-2017 09:30
+End Time  -  09-06-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  30.74 kw
+Minimum Value-  18.09 kw
+Median Value-  22.74 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  71 
+
+Energy Consumption-  581.51 kw
+Start Time-  10-06-2017 09:30
+End Time  -  10-06-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  29.68 kw
+Minimum Value-  16.94 kw
+Median Value-  23.35 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  72 
+
+Energy Consumption-  592.98 kw
+Start Time-  11-06-2017 09:30
+End Time  -  11-06-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  29.97 kw
+Minimum Value-  17.73 kw
+Median Value-  23.19 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  73 
+
+Energy Consumption-  594.46 kw
+Start Time-  12-06-2017 09:00
+End Time  -  12-06-2017 21:00
+Duration  -  750.0 mins
+Maximum Value-  29.74 kw
+Minimum Value-  17.29 kw
+Median Value-  24.58 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  74 
+
+Energy Consumption-  552.32 kw
+Start Time-  13-06-2017 09:30
+End Time  -  13-06-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  32.13 kw
+Minimum Value-  16.26 kw
+Median Value-  23.27 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  75 
+
+Energy Consumption-  20.11 kw
+Start Time-  14-06-2017 08:00
+End Time  -  14-06-2017 08:00
+Duration  -  30.0 mins
+Maximum Value-  20.11 kw
+Minimum Value-  20.11 kw
+Median Value-  20.11 kw
+Next Cycle After-  30.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  76 
+
+Energy Consumption-  516.8 kw
+Start Time-  14-06-2017 09:00
+End Time  -  14-06-2017 20:00
+Duration  -  690.0 mins
+Maximum Value-  28.53 kw
+Minimum Value-  16.66 kw
+Median Value-  23.06 kw
+Next Cycle After-  30.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  77 
+
+Energy Consumption-  18.82 kw
+Start Time-  14-06-2017 21:00
+End Time  -  14-06-2017 21:00
+Duration  -  30.0 mins
+Maximum Value-  18.82 kw
+Minimum Value-  18.82 kw
+Median Value-  18.82 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  78 
+
+Energy Consumption-  579.55 kw
+Start Time-  15-06-2017 09:30
+End Time  -  15-06-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  30.0 kw
+Minimum Value-  16.42 kw
+Median Value-  24.14 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  79 
+
+Energy Consumption-  592.29 kw
+Start Time-  16-06-2017 09:30
+End Time  -  16-06-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  27.91 kw
+Minimum Value-  16.73 kw
+Median Value-  24.26 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  80 
+
+Energy Consumption-  683.38 kw
+Start Time-  17-06-2017 09:30
+End Time  -  17-06-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  30.3 kw
+Minimum Value-  15.14 kw
+Median Value-  27.45 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  81 
+
+Energy Consumption-  651.44 kw
+Start Time-  18-06-2017 09:30
+End Time  -  18-06-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  31.71 kw
+Minimum Value-  19.55 kw
+Median Value-  25.84 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  82 
+
+Energy Consumption-  656.97 kw
+Start Time-  19-06-2017 09:00
+End Time  -  19-06-2017 21:30
+Duration  -  780.0 mins
+Maximum Value-  32.02 kw
+Minimum Value-  16.28 kw
+Median Value-  25.34 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  83 
+
+Energy Consumption-  613.96 kw
+Start Time-  20-06-2017 09:30
+End Time  -  20-06-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  33.27 kw
+Minimum Value-  18.94 kw
+Median Value-  24.865000000000002 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  84 
+
+Energy Consumption-  618.81 kw
+Start Time-  21-06-2017 09:30
+End Time  -  21-06-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  31.01 kw
+Minimum Value-  18.22 kw
+Median Value-  25.2 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  85 
+
+Energy Consumption-  620.66 kw
+Start Time-  22-06-2017 09:30
+End Time  -  22-06-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  31.06 kw
+Minimum Value-  17.7 kw
+Median Value-  25.02 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  86 
+
+Energy Consumption-  616.83 kw
+Start Time-  23-06-2017 09:30
+End Time  -  23-06-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  30.82 kw
+Minimum Value-  17.12 kw
+Median Value-  25.24 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  87 
+
+Energy Consumption-  615.71 kw
+Start Time-  24-06-2017 09:30
+End Time  -  24-06-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  33.51 kw
+Minimum Value-  15.1 kw
+Median Value-  24.78 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  88 
+
+Energy Consumption-  624.8 kw
+Start Time-  25-06-2017 09:30
+End Time  -  25-06-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  31.34 kw
+Minimum Value-  20.68 kw
+Median Value-  23.91 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  89 
+
+Energy Consumption-  64.44 kw
+Start Time-  26-06-2017 09:00
+End Time  -  26-06-2017 10:00
+Duration  -  90.0 mins
+Maximum Value-  21.98 kw
+Minimum Value-  20.96 kw
+Median Value-  21.5 kw
+Next Cycle After-  30.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  90 
+
+Energy Consumption-  478.0 kw
+Start Time-  26-06-2017 11:00
+End Time  -  26-06-2017 21:00
+Duration  -  630.0 mins
+Maximum Value-  27.7 kw
+Minimum Value-  18.38 kw
+Median Value-  22.62 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  91 
+
+Energy Consumption-  621.21 kw
+Start Time-  27-06-2017 09:30
+End Time  -  27-06-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  31.38 kw
+Minimum Value-  16.88 kw
+Median Value-  25.11 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  92 
+
+Energy Consumption-  644.45 kw
+Start Time-  28-06-2017 09:30
+End Time  -  28-06-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  30.42 kw
+Minimum Value-  15.54 kw
+Median Value-  26.24 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  93 
+
+Energy Consumption-  594.69 kw
+Start Time-  29-06-2017 09:30
+End Time  -  29-06-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  31.21 kw
+Minimum Value-  18.22 kw
+Median Value-  23.57 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  94 
+
+Energy Consumption-  605.95 kw
+Start Time-  30-06-2017 09:30
+End Time  -  30-06-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  30.76 kw
+Minimum Value-  16.89 kw
+Median Value-  23.81 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  95 
+
+Energy Consumption-  641.12 kw
+Start Time-  01-07-2017 09:30
+End Time  -  01-07-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  30.32 kw
+Minimum Value-  17.15 kw
+Median Value-  26.39 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  96 
+
+Energy Consumption-  603.14 kw
+Start Time-  02-07-2017 09:30
+End Time  -  02-07-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  31.58 kw
+Minimum Value-  17.15 kw
+Median Value-  24.884999999999998 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  97 
+
+Energy Consumption-  537.72 kw
+Start Time-  03-07-2017 09:00
+End Time  -  03-07-2017 21:00
+Duration  -  750.0 mins
+Maximum Value-  27.86 kw
+Minimum Value-  16.57 kw
+Median Value-  21.39 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  98 
+
+Energy Consumption-  593.57 kw
+Start Time-  04-07-2017 09:00
+End Time  -  04-07-2017 21:00
+Duration  -  750.0 mins
+Maximum Value-  30.75 kw
+Minimum Value-  16.35 kw
+Median Value-  24.02 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  99 
+
+Energy Consumption-  618.18 kw
+Start Time-  05-07-2017 09:00
+End Time  -  05-07-2017 21:00
+Duration  -  750.0 mins
+Maximum Value-  29.84 kw
+Minimum Value-  17.15 kw
+Median Value-  25.22 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  100 
+
+Energy Consumption-  602.57 kw
+Start Time-  06-07-2017 09:30
+End Time  -  06-07-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  30.33 kw
+Minimum Value-  18.66 kw
+Median Value-  24.82 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  101 
+
+Energy Consumption-  617.83 kw
+Start Time-  07-07-2017 09:30
+End Time  -  07-07-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  30.83 kw
+Minimum Value-  18.06 kw
+Median Value-  25.36 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  102 
+
+Energy Consumption-  621.32 kw
+Start Time-  08-07-2017 09:30
+End Time  -  08-07-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  31.1 kw
+Minimum Value-  18.47 kw
+Median Value-  25.985 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  103 
+
+Energy Consumption-  596.41 kw
+Start Time-  09-07-2017 09:30
+End Time  -  09-07-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  31.48 kw
+Minimum Value-  17.92 kw
+Median Value-  25.17 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  104 
+
+Energy Consumption-  604.19 kw
+Start Time-  10-07-2017 09:00
+End Time  -  10-07-2017 21:00
+Duration  -  750.0 mins
+Maximum Value-  31.37 kw
+Minimum Value-  16.76 kw
+Median Value-  23.77 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  105 
+
+Energy Consumption-  620.14 kw
+Start Time-  11-07-2017 09:30
+End Time  -  11-07-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  32.49 kw
+Minimum Value-  18.7 kw
+Median Value-  26.625 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  106 
+
+Energy Consumption-  596.85 kw
+Start Time-  12-07-2017 09:30
+End Time  -  12-07-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  31.32 kw
+Minimum Value-  19.26 kw
+Median Value-  24.53 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  107 
+
+Energy Consumption-  545.07 kw
+Start Time-  13-07-2017 09:30
+End Time  -  13-07-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  27.91 kw
+Minimum Value-  15.56 kw
+Median Value-  23.475 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  108 
+
+Energy Consumption-  598.51 kw
+Start Time-  14-07-2017 09:30
+End Time  -  14-07-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  31.61 kw
+Minimum Value-  17.98 kw
+Median Value-  22.62 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  109 
+
+Energy Consumption-  598.23 kw
+Start Time-  15-07-2017 09:30
+End Time  -  15-07-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  30.12 kw
+Minimum Value-  18.17 kw
+Median Value-  25.11 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  110 
+
+Energy Consumption-  616.44 kw
+Start Time-  16-07-2017 09:30
+End Time  -  16-07-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  33.97 kw
+Minimum Value-  17.84 kw
+Median Value-  25.095 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  111 
+
+Energy Consumption-  593.92 kw
+Start Time-  17-07-2017 09:00
+End Time  -  17-07-2017 21:00
+Duration  -  750.0 mins
+Maximum Value-  31.0 kw
+Minimum Value-  15.91 kw
+Median Value-  23.46 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  112 
+
+Energy Consumption-  581.81 kw
+Start Time-  18-07-2017 09:30
+End Time  -  18-07-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  30.44 kw
+Minimum Value-  17.06 kw
+Median Value-  24.91 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  113 
+
+Energy Consumption-  636.86 kw
+Start Time-  19-07-2017 09:30
+End Time  -  19-07-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  29.83 kw
+Minimum Value-  17.36 kw
+Median Value-  25.23 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  114 
+
+Energy Consumption-  579.79 kw
+Start Time-  20-07-2017 09:30
+End Time  -  20-07-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  32.43 kw
+Minimum Value-  15.14 kw
+Median Value-  22.9 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  115 
+
+Energy Consumption-  624.21 kw
+Start Time-  21-07-2017 09:00
+End Time  -  21-07-2017 21:30
+Duration  -  780.0 mins
+Maximum Value-  30.68 kw
+Minimum Value-  15.58 kw
+Median Value-  23.745 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  116 
+
+Energy Consumption-  620.61 kw
+Start Time-  22-07-2017 09:30
+End Time  -  22-07-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  30.52 kw
+Minimum Value-  19.22 kw
+Median Value-  24.15 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  117 
+
+Energy Consumption-  649.05 kw
+Start Time-  23-07-2017 09:00
+End Time  -  23-07-2017 21:30
+Duration  -  780.0 mins
+Maximum Value-  33.1 kw
+Minimum Value-  19.34 kw
+Median Value-  25.015 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  118 
+
+Energy Consumption-  636.81 kw
+Start Time-  24-07-2017 08:30
+End Time  -  24-07-2017 21:30
+Duration  -  810.0 mins
+Maximum Value-  30.25 kw
+Minimum Value-  15.9 kw
+Median Value-  22.88 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  119 
+
+Energy Consumption-  610.37 kw
+Start Time-  25-07-2017 09:30
+End Time  -  25-07-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  33.82 kw
+Minimum Value-  18.59 kw
+Median Value-  25.285 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  120 
+
+Energy Consumption-  560.03 kw
+Start Time-  26-07-2017 09:00
+End Time  -  26-07-2017 21:00
+Duration  -  750.0 mins
+Maximum Value-  32.06 kw
+Minimum Value-  16.6 kw
+Median Value-  21.14 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  121 
+
+Energy Consumption-  574.14 kw
+Start Time-  27-07-2017 09:30
+End Time  -  27-07-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  29.7 kw
+Minimum Value-  17.82 kw
+Median Value-  24.08 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  122 
+
+Energy Consumption-  612.66 kw
+Start Time-  28-07-2017 09:30
+End Time  -  28-07-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  30.42 kw
+Minimum Value-  19.61 kw
+Median Value-  25.655 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  123 
+
+Energy Consumption-  609.58 kw
+Start Time-  29-07-2017 09:30
+End Time  -  29-07-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  31.78 kw
+Minimum Value-  17.6 kw
+Median Value-  24.44 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  124 
+
+Energy Consumption-  617.43 kw
+Start Time-  30-07-2017 09:30
+End Time  -  30-07-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  28.9 kw
+Minimum Value-  18.39 kw
+Median Value-  25.01 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  125 
+
+Energy Consumption-  604.85 kw
+Start Time-  31-07-2017 08:30
+End Time  -  31-07-2017 21:00
+Duration  -  780.0 mins
+Maximum Value-  27.97 kw
+Minimum Value-  18.57 kw
+Median Value-  23.15 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  126 
+
+Energy Consumption-  584.1 kw
+Start Time-  01-08-2017 09:30
+End Time  -  01-08-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  29.6 kw
+Minimum Value-  18.7 kw
+Median Value-  25.060000000000002 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  127 
+
+Energy Consumption-  614.9 kw
+Start Time-  02-08-2017 09:00
+End Time  -  02-08-2017 21:30
+Duration  -  780.0 mins
+Maximum Value-  33.1 kw
+Minimum Value-  16.11 kw
+Median Value-  23.66 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  128 
+
+Energy Consumption-  655.63 kw
+Start Time-  03-08-2017 09:30
+End Time  -  03-08-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  35.04 kw
+Minimum Value-  21.35 kw
+Median Value-  27.0 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  129 
+
+Energy Consumption-  652.75 kw
+Start Time-  04-08-2017 09:30
+End Time  -  04-08-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  30.89 kw
+Minimum Value-  20.02 kw
+Median Value-  26.46 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  130 
+
+Energy Consumption-  755.49 kw
+Start Time-  05-08-2017 09:30
+End Time  -  05-08-2017 23:00
+Duration  -  840.0 mins
+Maximum Value-  33.73 kw
+Minimum Value-  16.54 kw
+Median Value-  27.375 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  131 
+
+Energy Consumption-  704.02 kw
+Start Time-  06-08-2017 09:30
+End Time  -  06-08-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  32.02 kw
+Minimum Value-  16.54 kw
+Median Value-  26.08 kw
+Next Cycle After-  570.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  132 
+
+Energy Consumption-  671.04 kw
+Start Time-  07-08-2017 08:30
+End Time  -  07-08-2017 21:00
+Duration  -  780.0 mins
+Maximum Value-  33.06 kw
+Minimum Value-  15.48 kw
+Median Value-  26.57 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  133 
+
+Energy Consumption-  662.74 kw
+Start Time-  08-08-2017 09:30
+End Time  -  08-08-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  32.5 kw
+Minimum Value-  19.08 kw
+Median Value-  28.015 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  134 
+
+Energy Consumption-  578.59 kw
+Start Time-  09-08-2017 09:30
+End Time  -  09-08-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  29.77 kw
+Minimum Value-  16.38 kw
+Median Value-  25.095 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  135 
+
+Energy Consumption-  640.86 kw
+Start Time-  10-08-2017 09:30
+End Time  -  10-08-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  31.73 kw
+Minimum Value-  20.9 kw
+Median Value-  25.36 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  136 
+
+Energy Consumption-  652.17 kw
+Start Time-  11-08-2017 09:30
+End Time  -  11-08-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  33.28 kw
+Minimum Value-  15.94 kw
+Median Value-  24.854999999999997 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  137 
+
+Energy Consumption-  666.09 kw
+Start Time-  12-08-2017 09:30
+End Time  -  12-08-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  31.71 kw
+Minimum Value-  15.11 kw
+Median Value-  25.115 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  138 
+
+Energy Consumption-  675.67 kw
+Start Time-  13-08-2017 09:30
+End Time  -  13-08-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  33.05 kw
+Minimum Value-  18.11 kw
+Median Value-  26.96 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  139 
+
+Energy Consumption-  652.63 kw
+Start Time-  14-08-2017 08:30
+End Time  -  14-08-2017 21:30
+Duration  -  810.0 mins
+Maximum Value-  30.94 kw
+Minimum Value-  15.21 kw
+Median Value-  23.53 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  140 
+
+Energy Consumption-  582.63 kw
+Start Time-  15-08-2017 10:00
+End Time  -  15-08-2017 21:00
+Duration  -  690.0 mins
+Maximum Value-  30.87 kw
+Minimum Value-  21.5 kw
+Median Value-  24.83 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  141 
+
+Energy Consumption-  589.91 kw
+Start Time-  16-08-2017 09:30
+End Time  -  16-08-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  30.43 kw
+Minimum Value-  18.26 kw
+Median Value-  24.42 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  142 
+
+Energy Consumption-  658.18 kw
+Start Time-  17-08-2017 09:30
+End Time  -  17-08-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  34.49 kw
+Minimum Value-  17.1 kw
+Median Value-  25.74 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  143 
+
+Energy Consumption-  685.72 kw
+Start Time-  18-08-2017 09:30
+End Time  -  18-08-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  34.51 kw
+Minimum Value-  20.43 kw
+Median Value-  28.11 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  144 
+
+Energy Consumption-  691.42 kw
+Start Time-  19-08-2017 09:30
+End Time  -  19-08-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  36.12 kw
+Minimum Value-  18.44 kw
+Median Value-  27.38 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  145 
+
+Energy Consumption-  657.5 kw
+Start Time-  20-08-2017 09:30
+End Time  -  20-08-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  31.56 kw
+Minimum Value-  15.18 kw
+Median Value-  24.835 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  146 
+
+Energy Consumption-  619.02 kw
+Start Time-  21-08-2017 08:30
+End Time  -  21-08-2017 21:00
+Duration  -  780.0 mins
+Maximum Value-  28.11 kw
+Minimum Value-  16.83 kw
+Median Value-  23.545 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  147 
+
+Energy Consumption-  597.66 kw
+Start Time-  22-08-2017 09:30
+End Time  -  22-08-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  29.08 kw
+Minimum Value-  20.4 kw
+Median Value-  24.92 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  148 
+
+Energy Consumption-  619.43 kw
+Start Time-  23-08-2017 09:30
+End Time  -  23-08-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  31.7 kw
+Minimum Value-  20.32 kw
+Median Value-  25.445 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  149 
+
+Energy Consumption-  612.16 kw
+Start Time-  24-08-2017 09:30
+End Time  -  24-08-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  30.29 kw
+Minimum Value-  17.78 kw
+Median Value-  24.43 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  150 
+
+Energy Consumption-  645.75 kw
+Start Time-  25-08-2017 09:30
+End Time  -  25-08-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  32.58 kw
+Minimum Value-  17.74 kw
+Median Value-  25.64 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  151 
+
+Energy Consumption-  626.04 kw
+Start Time-  26-08-2017 09:30
+End Time  -  26-08-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  32.06 kw
+Minimum Value-  20.29 kw
+Median Value-  26.125 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  152 
+
+Energy Consumption-  638.27 kw
+Start Time-  27-08-2017 09:30
+End Time  -  27-08-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  31.08 kw
+Minimum Value-  17.57 kw
+Median Value-  24.740000000000002 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  153 
+
+Energy Consumption-  647.32 kw
+Start Time-  28-08-2017 08:30
+End Time  -  28-08-2017 21:00
+Duration  -  780.0 mins
+Maximum Value-  32.43 kw
+Minimum Value-  16.44 kw
+Median Value-  24.905 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  154 
+
+Energy Consumption-  594.76 kw
+Start Time-  29-08-2017 09:30
+End Time  -  29-08-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  30.02 kw
+Minimum Value-  17.73 kw
+Median Value-  25.78 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  155 
+
+Energy Consumption-  607.31 kw
+Start Time-  30-08-2017 09:30
+End Time  -  30-08-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  32.88 kw
+Minimum Value-  20.89 kw
+Median Value-  25.215 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  156 
+
+Energy Consumption-  681.48 kw
+Start Time-  31-08-2017 09:30
+End Time  -  31-08-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  32.94 kw
+Minimum Value-  15.78 kw
+Median Value-  25.99 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  157 
+
+Energy Consumption-  626.36 kw
+Start Time-  01-09-2017 09:30
+End Time  -  01-09-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  30.14 kw
+Minimum Value-  15.62 kw
+Median Value-  25.63 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  158 
+
+Energy Consumption-  656.61 kw
+Start Time-  02-09-2017 09:30
+End Time  -  02-09-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  32.95 kw
+Minimum Value-  15.48 kw
+Median Value-  26.35 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  159 
+
+Energy Consumption-  673.11 kw
+Start Time-  03-09-2017 09:30
+End Time  -  03-09-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  37.22 kw
+Minimum Value-  18.82 kw
+Median Value-  26.88 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  160 
+
+Energy Consumption-  615.37 kw
+Start Time-  04-09-2017 08:30
+End Time  -  04-09-2017 21:00
+Duration  -  780.0 mins
+Maximum Value-  31.45 kw
+Minimum Value-  16.08 kw
+Median Value-  22.79 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  161 
+
+Energy Consumption-  634.05 kw
+Start Time-  05-09-2017 09:30
+End Time  -  05-09-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  34.14 kw
+Minimum Value-  22.1 kw
+Median Value-  26.28 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  162 
+
+Energy Consumption-  624.05 kw
+Start Time-  06-09-2017 09:30
+End Time  -  06-09-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  31.99 kw
+Minimum Value-  17.4 kw
+Median Value-  24.51 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  163 
+
+Energy Consumption-  696.14 kw
+Start Time-  07-09-2017 09:30
+End Time  -  07-09-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  34.18 kw
+Minimum Value-  19.97 kw
+Median Value-  27.42 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  164 
+
+Energy Consumption-  714.84 kw
+Start Time-  08-09-2017 09:30
+End Time  -  08-09-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  33.58 kw
+Minimum Value-  19.61 kw
+Median Value-  28.7 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  165 
+
+Energy Consumption-  702.47 kw
+Start Time-  09-09-2017 09:30
+End Time  -  09-09-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  33.85 kw
+Minimum Value-  15.58 kw
+Median Value-  27.445 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  166 
+
+Energy Consumption-  668.73 kw
+Start Time-  10-09-2017 09:30
+End Time  -  10-09-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  33.42 kw
+Minimum Value-  21.26 kw
+Median Value-  26.18 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  167 
+
+Energy Consumption-  646.55 kw
+Start Time-  11-09-2017 09:00
+End Time  -  11-09-2017 21:00
+Duration  -  750.0 mins
+Maximum Value-  31.62 kw
+Minimum Value-  17.7 kw
+Median Value-  25.78 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  168 
+
+Energy Consumption-  622.37 kw
+Start Time-  12-09-2017 09:30
+End Time  -  12-09-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  30.67 kw
+Minimum Value-  15.39 kw
+Median Value-  24.75 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  169 
+
+Energy Consumption-  668.9 kw
+Start Time-  13-09-2017 09:30
+End Time  -  13-09-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  32.2 kw
+Minimum Value-  19.93 kw
+Median Value-  27.47 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  170 
+
+Energy Consumption-  715.04 kw
+Start Time-  14-09-2017 09:30
+End Time  -  14-09-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  34.12 kw
+Minimum Value-  15.94 kw
+Median Value-  27.560000000000002 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  171 
+
+Energy Consumption-  695.73 kw
+Start Time-  15-09-2017 09:30
+End Time  -  15-09-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  34.58 kw
+Minimum Value-  21.01 kw
+Median Value-  27.67 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  172 
+
+Energy Consumption-  696.79 kw
+Start Time-  16-09-2017 09:30
+End Time  -  16-09-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  32.62 kw
+Minimum Value-  20.29 kw
+Median Value-  26.57 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  173 
+
+Energy Consumption-  705.58 kw
+Start Time-  17-09-2017 09:30
+End Time  -  17-09-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  35.97 kw
+Minimum Value-  21.66 kw
+Median Value-  28.71 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  174 
+
+Energy Consumption-  692.06 kw
+Start Time-  18-09-2017 09:00
+End Time  -  18-09-2017 21:00
+Duration  -  750.0 mins
+Maximum Value-  33.46 kw
+Minimum Value-  19.02 kw
+Median Value-  28.24 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  175 
+
+Energy Consumption-  621.05 kw
+Start Time-  19-09-2017 09:30
+End Time  -  19-09-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  33.71 kw
+Minimum Value-  17.14 kw
+Median Value-  25.785 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  176 
+
+Energy Consumption-  667.24 kw
+Start Time-  20-09-2017 09:00
+End Time  -  20-09-2017 21:00
+Duration  -  750.0 mins
+Maximum Value-  31.1 kw
+Minimum Value-  17.9 kw
+Median Value-  27.38 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  177 
+
+Energy Consumption-  712.24 kw
+Start Time-  21-09-2017 09:00
+End Time  -  21-09-2017 21:30
+Duration  -  780.0 mins
+Maximum Value-  35.26 kw
+Minimum Value-  16.73 kw
+Median Value-  27.775 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  178 
+
+Energy Consumption-  675.72 kw
+Start Time-  22-09-2017 09:30
+End Time  -  22-09-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  33.82 kw
+Minimum Value-  20.64 kw
+Median Value-  28.64 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  179 
+
+Energy Consumption-  661.73 kw
+Start Time-  23-09-2017 09:30
+End Time  -  23-09-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  33.86 kw
+Minimum Value-  16.42 kw
+Median Value-  26.46 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  180 
+
+Energy Consumption-  654.62 kw
+Start Time-  24-09-2017 09:30
+End Time  -  24-09-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  34.45 kw
+Minimum Value-  22.38 kw
+Median Value-  26.675 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  181 
+
+Energy Consumption-  645.16 kw
+Start Time-  25-09-2017 09:00
+End Time  -  25-09-2017 21:00
+Duration  -  750.0 mins
+Maximum Value-  33.01 kw
+Minimum Value-  19.5 kw
+Median Value-  25.54 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  182 
+
+Energy Consumption-  660.05 kw
+Start Time-  26-09-2017 09:30
+End Time  -  26-09-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  33.39 kw
+Minimum Value-  20.49 kw
+Median Value-  28.1 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  183 
+
+Energy Consumption-  708.15 kw
+Start Time-  27-09-2017 09:00
+End Time  -  27-09-2017 21:30
+Duration  -  780.0 mins
+Maximum Value-  33.73 kw
+Minimum Value-  15.1 kw
+Median Value-  27.89 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  184 
+
+Energy Consumption-  709.05 kw
+Start Time-  28-09-2017 09:30
+End Time  -  28-09-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  37.97 kw
+Minimum Value-  20.84 kw
+Median Value-  28.74 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  185 
+
+Energy Consumption-  734.89 kw
+Start Time-  29-09-2017 09:30
+End Time  -  29-09-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  35.04 kw
+Minimum Value-  15.35 kw
+Median Value-  28.810000000000002 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  186 
+
+Energy Consumption-  733.9 kw
+Start Time-  30-09-2017 09:30
+End Time  -  30-09-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  32.86 kw
+Minimum Value-  19.56 kw
+Median Value-  28.869999999999997 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  187 
+
+Energy Consumption-  722.22 kw
+Start Time-  01-10-2017 09:30
+End Time  -  01-10-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  34.94 kw
+Minimum Value-  18.69 kw
+Median Value-  29.89 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  188 
+
+Energy Consumption-  755.83 kw
+Start Time-  02-10-2017 09:00
+End Time  -  02-10-2017 21:30
+Duration  -  780.0 mins
+Maximum Value-  35.43 kw
+Minimum Value-  16.39 kw
+Median Value-  29.270000000000003 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  189 
+
+Energy Consumption-  752.11 kw
+Start Time-  03-10-2017 08:30
+End Time  -  03-10-2017 21:30
+Duration  -  810.0 mins
+Maximum Value-  32.78 kw
+Minimum Value-  17.79 kw
+Median Value-  28.58 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  190 
+
+Energy Consumption-  730.76 kw
+Start Time-  04-10-2017 09:30
+End Time  -  04-10-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  37.29 kw
+Minimum Value-  17.1 kw
+Median Value-  27.915 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  191 
+
+Energy Consumption-  770.93 kw
+Start Time-  05-10-2017 09:30
+End Time  -  05-10-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  37.02 kw
+Minimum Value-  16.31 kw
+Median Value-  29.810000000000002 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  192 
+
+Energy Consumption-  748.78 kw
+Start Time-  06-10-2017 09:30
+End Time  -  06-10-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  37.98 kw
+Minimum Value-  19.87 kw
+Median Value-  30.5 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  193 
+
+Energy Consumption-  770.09 kw
+Start Time-  07-10-2017 09:30
+End Time  -  07-10-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  37.83 kw
+Minimum Value-  16.79 kw
+Median Value-  31.16 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  194 
+
+Energy Consumption-  744.28 kw
+Start Time-  08-10-2017 09:30
+End Time  -  08-10-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  36.59 kw
+Minimum Value-  16.24 kw
+Median Value-  29.54 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  195 
+
+Energy Consumption-  726.78 kw
+Start Time-  09-10-2017 09:00
+End Time  -  09-10-2017 21:30
+Duration  -  780.0 mins
+Maximum Value-  36.44 kw
+Minimum Value-  15.11 kw
+Median Value-  28.415 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  196 
+
+Energy Consumption-  689.45 kw
+Start Time-  10-10-2017 09:30
+End Time  -  10-10-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  35.68 kw
+Minimum Value-  19.53 kw
+Median Value-  27.81 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  197 
+
+Energy Consumption-  705.29 kw
+Start Time-  11-10-2017 09:30
+End Time  -  11-10-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  36.31 kw
+Minimum Value-  16.9 kw
+Median Value-  28.85 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  198 
+
+Energy Consumption-  692.33 kw
+Start Time-  12-10-2017 09:30
+End Time  -  12-10-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  36.62 kw
+Minimum Value-  19.99 kw
+Median Value-  28.025 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  199 
+
+Energy Consumption-  815.3 kw
+Start Time-  13-10-2017 09:00
+End Time  -  13-10-2017 22:30
+Duration  -  840.0 mins
+Maximum Value-  35.45 kw
+Minimum Value-  15.18 kw
+Median Value-  30.42 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  200 
+
+Energy Consumption-  709.9 kw
+Start Time-  14-10-2017 09:30
+End Time  -  14-10-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  34.95 kw
+Minimum Value-  15.65 kw
+Median Value-  28.355 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  201 
+
+Energy Consumption-  770.88 kw
+Start Time-  15-10-2017 09:30
+End Time  -  15-10-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  34.71 kw
+Minimum Value-  15.51 kw
+Median Value-  29.36 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  202 
+
+Energy Consumption-  660.58 kw
+Start Time-  16-10-2017 09:00
+End Time  -  16-10-2017 21:00
+Duration  -  750.0 mins
+Maximum Value-  32.93 kw
+Minimum Value-  18.15 kw
+Median Value-  26.54 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  203 
+
+Energy Consumption-  604.73 kw
+Start Time-  17-10-2017 09:30
+End Time  -  17-10-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  32.02 kw
+Minimum Value-  16.73 kw
+Median Value-  24.94 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  204 
+
+Energy Consumption-  645.85 kw
+Start Time-  18-10-2017 09:30
+End Time  -  18-10-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  32.66 kw
+Minimum Value-  20.03 kw
+Median Value-  27.035 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  205 
+
+Energy Consumption-  659.22 kw
+Start Time-  19-10-2017 09:30
+End Time  -  19-10-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  32.85 kw
+Minimum Value-  17.96 kw
+Median Value-  25.61 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  206 
+
+Energy Consumption-  708.0 kw
+Start Time-  20-10-2017 09:00
+End Time  -  20-10-2017 22:00
+Duration  -  810.0 mins
+Maximum Value-  30.58 kw
+Minimum Value-  16.46 kw
+Median Value-  26.85 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  207 
+
+Energy Consumption-  698.0 kw
+Start Time-  21-10-2017 09:30
+End Time  -  21-10-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  34.83 kw
+Minimum Value-  20.02 kw
+Median Value-  27.89 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  208 
+
+Energy Consumption-  699.82 kw
+Start Time-  22-10-2017 09:30
+End Time  -  22-10-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  31.34 kw
+Minimum Value-  18.7 kw
+Median Value-  27.825000000000003 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  209 
+
+Energy Consumption-  751.5 kw
+Start Time-  23-10-2017 08:30
+End Time  -  23-10-2017 21:30
+Duration  -  810.0 mins
+Maximum Value-  32.9 kw
+Minimum Value-  19.18 kw
+Median Value-  28.03 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  210 
+
+Energy Consumption-  776.95 kw
+Start Time-  24-10-2017 09:00
+End Time  -  24-10-2017 22:00
+Duration  -  810.0 mins
+Maximum Value-  33.98 kw
+Minimum Value-  15.2 kw
+Median Value-  29.62 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  211 
+
+Energy Consumption-  698.37 kw
+Start Time-  25-10-2017 09:30
+End Time  -  25-10-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  35.43 kw
+Minimum Value-  20.72 kw
+Median Value-  29.21 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  212 
+
+Energy Consumption-  713.27 kw
+Start Time-  26-10-2017 09:30
+End Time  -  26-10-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  33.71 kw
+Minimum Value-  17.5 kw
+Median Value-  28.72 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  213 
+
+Energy Consumption-  749.7 kw
+Start Time-  27-10-2017 09:00
+End Time  -  27-10-2017 21:30
+Duration  -  780.0 mins
+Maximum Value-  35.56 kw
+Minimum Value-  16.77 kw
+Median Value-  29.985 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  214 
+
+Energy Consumption-  768.65 kw
+Start Time-  28-10-2017 09:30
+End Time  -  28-10-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  36.22 kw
+Minimum Value-  18.74 kw
+Median Value-  29.435000000000002 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  215 
+
+Energy Consumption-  777.26 kw
+Start Time-  29-10-2017 09:30
+End Time  -  29-10-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  37.63 kw
+Minimum Value-  23.7 kw
+Median Value-  30.7 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  216 
+
+Energy Consumption-  743.54 kw
+Start Time-  30-10-2017 09:00
+End Time  -  30-10-2017 21:30
+Duration  -  780.0 mins
+Maximum Value-  34.12 kw
+Minimum Value-  17.84 kw
+Median Value-  28.9 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  217 
+
+Energy Consumption-  744.66 kw
+Start Time-  31-10-2017 09:30
+End Time  -  31-10-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  37.28 kw
+Minimum Value-  17.95 kw
+Median Value-  30.23 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  218 
+
+Energy Consumption-  687.33 kw
+Start Time-  01-11-2017 09:30
+End Time  -  01-11-2017 21:00
+Duration  -  720.0 mins
+Maximum Value-  35.45 kw
+Minimum Value-  23.66 kw
+Median Value-  28.259999999999998 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  219 
+
+Energy Consumption-  788.6 kw
+Start Time-  02-11-2017 09:30
+End Time  -  02-11-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  37.02 kw
+Minimum Value-  17.26 kw
+Median Value-  31.189999999999998 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  220 
+
+Energy Consumption-  800.17 kw
+Start Time-  03-11-2017 09:00
+End Time  -  03-11-2017 22:00
+Duration  -  810.0 mins
+Maximum Value-  35.99 kw
+Minimum Value-  18.72 kw
+Median Value-  30.77 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  221 
+
+Energy Consumption-  774.41 kw
+Start Time-  04-11-2017 09:30
+End Time  -  04-11-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  36.47 kw
+Minimum Value-  18.79 kw
+Median Value-  29.83 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  222 
+
+Energy Consumption-  788.35 kw
+Start Time-  05-11-2017 09:30
+End Time  -  05-11-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  35.75 kw
+Minimum Value-  16.46 kw
+Median Value-  30.84 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  223 
+
+Energy Consumption-  717.14 kw
+Start Time-  06-11-2017 09:00
+End Time  -  06-11-2017 21:30
+Duration  -  780.0 mins
+Maximum Value-  34.86 kw
+Minimum Value-  16.29 kw
+Median Value-  27.240000000000002 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  224 
+
+Energy Consumption-  715.5 kw
+Start Time-  07-11-2017 09:30
+End Time  -  07-11-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  33.65 kw
+Minimum Value-  15.91 kw
+Median Value-  27.32 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  225 
+
+Energy Consumption-  755.08 kw
+Start Time-  08-11-2017 09:30
+End Time  -  08-11-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  34.91 kw
+Minimum Value-  17.41 kw
+Median Value-  29.715 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  226 
+
+Energy Consumption-  727.57 kw
+Start Time-  09-11-2017 09:30
+End Time  -  09-11-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  35.04 kw
+Minimum Value-  20.28 kw
+Median Value-  29.55 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  227 
+
+Energy Consumption-  742.24 kw
+Start Time-  10-11-2017 09:30
+End Time  -  10-11-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  36.6 kw
+Minimum Value-  19.62 kw
+Median Value-  30.6 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  228 
+
+Energy Consumption-  709.09 kw
+Start Time-  11-11-2017 09:30
+End Time  -  11-11-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  33.43 kw
+Minimum Value-  21.25 kw
+Median Value-  28.64 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  229 
+
+Energy Consumption-  756.63 kw
+Start Time-  12-11-2017 09:30
+End Time  -  12-11-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  35.26 kw
+Minimum Value-  18.2 kw
+Median Value-  30.51 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  230 
+
+Energy Consumption-  699.34 kw
+Start Time-  13-11-2017 08:30
+End Time  -  13-11-2017 21:00
+Duration  -  780.0 mins
+Maximum Value-  37.9 kw
+Minimum Value-  20.0 kw
+Median Value-  25.53 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  231 
+
+Energy Consumption-  676.71 kw
+Start Time-  14-11-2017 09:00
+End Time  -  14-11-2017 21:30
+Duration  -  780.0 mins
+Maximum Value-  33.02 kw
+Minimum Value-  15.23 kw
+Median Value-  26.795 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  232 
+
+Energy Consumption-  682.63 kw
+Start Time-  15-11-2017 09:30
+End Time  -  15-11-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  32.98 kw
+Minimum Value-  16.22 kw
+Median Value-  27.78 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  233 
+
+Energy Consumption-  745.89 kw
+Start Time-  16-11-2017 09:30
+End Time  -  16-11-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  36.08 kw
+Minimum Value-  19.22 kw
+Median Value-  28.174999999999997 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  234 
+
+Energy Consumption-  784.05 kw
+Start Time-  17-11-2017 09:00
+End Time  -  17-11-2017 22:00
+Duration  -  810.0 mins
+Maximum Value-  37.15 kw
+Minimum Value-  16.7 kw
+Median Value-  29.5 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  235 
+
+Energy Consumption-  701.42 kw
+Start Time-  18-11-2017 09:30
+End Time  -  18-11-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  37.29 kw
+Minimum Value-  15.01 kw
+Median Value-  28.67 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  236 
+
+Energy Consumption-  696.37 kw
+Start Time-  19-11-2017 09:30
+End Time  -  19-11-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  32.54 kw
+Minimum Value-  18.8 kw
+Median Value-  27.89 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  237 
+
+Energy Consumption-  632.0 kw
+Start Time-  20-11-2017 09:00
+End Time  -  20-11-2017 21:00
+Duration  -  750.0 mins
+Maximum Value-  33.66 kw
+Minimum Value-  19.69 kw
+Median Value-  23.73 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  238 
+
+Energy Consumption-  682.25 kw
+Start Time-  21-11-2017 09:30
+End Time  -  21-11-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  34.28 kw
+Minimum Value-  15.8 kw
+Median Value-  28.08 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  239 
+
+Energy Consumption-  751.16 kw
+Start Time-  22-11-2017 09:00
+End Time  -  22-11-2017 21:30
+Duration  -  780.0 mins
+Maximum Value-  34.94 kw
+Minimum Value-  15.39 kw
+Median Value-  29.939999999999998 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  240 
+
+Energy Consumption-  742.54 kw
+Start Time-  23-11-2017 09:00
+End Time  -  23-11-2017 21:30
+Duration  -  780.0 mins
+Maximum Value-  35.21 kw
+Minimum Value-  16.35 kw
+Median Value-  29.785 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  241 
+
+Energy Consumption-  792.5 kw
+Start Time-  24-11-2017 09:00
+End Time  -  24-11-2017 21:30
+Duration  -  780.0 mins
+Maximum Value-  38.53 kw
+Minimum Value-  18.14 kw
+Median Value-  31.035 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  242 
+
+Energy Consumption-  742.12 kw
+Start Time-  25-11-2017 09:30
+End Time  -  25-11-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  39.1 kw
+Minimum Value-  19.34 kw
+Median Value-  29.46 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  243 
+
+Energy Consumption-  709.45 kw
+Start Time-  26-11-2017 09:30
+End Time  -  26-11-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  36.14 kw
+Minimum Value-  16.02 kw
+Median Value-  26.939999999999998 kw
+Next Cycle After-  30.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  244 
+
+Energy Consumption-  16.58 kw
+Start Time-  26-11-2017 23:00
+End Time  -  26-11-2017 23:00
+Duration  -  30.0 mins
+Maximum Value-  16.58 kw
+Minimum Value-  16.58 kw
+Median Value-  16.58 kw
+Next Cycle After-  570.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  245 
+
+Energy Consumption-  766.76 kw
+Start Time-  27-11-2017 09:00
+End Time  -  27-11-2017 22:00
+Duration  -  810.0 mins
+Maximum Value-  38.67 kw
+Minimum Value-  15.74 kw
+Median Value-  28.17 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  246 
+
+Energy Consumption-  721.11 kw
+Start Time-  28-11-2017 09:30
+End Time  -  28-11-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  33.41 kw
+Minimum Value-  16.9 kw
+Median Value-  28.33 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  247 
+
+Energy Consumption-  805.06 kw
+Start Time-  29-11-2017 09:30
+End Time  -  29-11-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  36.99 kw
+Minimum Value-  16.15 kw
+Median Value-  30.85 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  248 
+
+Energy Consumption-  781.44 kw
+Start Time-  30-11-2017 09:30
+End Time  -  30-11-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  36.04 kw
+Minimum Value-  16.02 kw
+Median Value-  30.61 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  249 
+
+Energy Consumption-  924.77 kw
+Start Time-  01-12-2017 08:30
+End Time  -  01-12-2017 23:30
+Duration  -  930.0 mins
+Maximum Value-  37.1 kw
+Minimum Value-  18.97 kw
+Median Value-  31.08 kw
+Next Cycle After-  570.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  250 
+
+Energy Consumption-  954.97 kw
+Start Time-  02-12-2017 09:30
+End Time  -  03-12-2017 01:30
+Duration  -  990.0 mins
+Maximum Value-  39.5 kw
+Minimum Value-  16.28 kw
+Median Value-  30.9 kw
+Next Cycle After-  420.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  251 
+
+Energy Consumption-  867.47 kw
+Start Time-  03-12-2017 09:00
+End Time  -  03-12-2017 23:30
+Duration  -  900.0 mins
+Maximum Value-  37.37 kw
+Minimum Value-  16.4 kw
+Median Value-  30.125 kw
+Next Cycle After-  510.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  252 
+
+Energy Consumption-  808.24 kw
+Start Time-  04-12-2017 08:30
+End Time  -  04-12-2017 21:30
+Duration  -  810.0 mins
+Maximum Value-  35.97 kw
+Minimum Value-  18.74 kw
+Median Value-  29.82 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  253 
+
+Energy Consumption-  764.2 kw
+Start Time-  05-12-2017 09:30
+End Time  -  05-12-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  38.07 kw
+Minimum Value-  16.79 kw
+Median Value-  31.2 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  254 
+
+Energy Consumption-  797.73 kw
+Start Time-  06-12-2017 09:30
+End Time  -  06-12-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  36.2 kw
+Minimum Value-  16.1 kw
+Median Value-  31.310000000000002 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  255 
+
+Energy Consumption-  807.95 kw
+Start Time-  07-12-2017 09:00
+End Time  -  07-12-2017 22:00
+Duration  -  810.0 mins
+Maximum Value-  36.9 kw
+Minimum Value-  17.13 kw
+Median Value-  30.14 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  256 
+
+Energy Consumption-  857.61 kw
+Start Time-  08-12-2017 09:30
+End Time  -  08-12-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  38.69 kw
+Minimum Value-  19.45 kw
+Median Value-  33.885000000000005 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  257 
+
+Energy Consumption-  776.44 kw
+Start Time-  09-12-2017 09:30
+End Time  -  09-12-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  37.71 kw
+Minimum Value-  17.02 kw
+Median Value-  30.94 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  258 
+
+Energy Consumption-  814.32 kw
+Start Time-  10-12-2017 09:00
+End Time  -  10-12-2017 22:00
+Duration  -  810.0 mins
+Maximum Value-  37.38 kw
+Minimum Value-  18.63 kw
+Median Value-  30.26 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  259 
+
+Energy Consumption-  811.9 kw
+Start Time-  11-12-2017 08:30
+End Time  -  11-12-2017 21:30
+Duration  -  810.0 mins
+Maximum Value-  39.81 kw
+Minimum Value-  15.48 kw
+Median Value-  29.25 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  260 
+
+Energy Consumption-  789.91 kw
+Start Time-  12-12-2017 09:30
+End Time  -  12-12-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  36.3 kw
+Minimum Value-  15.62 kw
+Median Value-  31.615000000000002 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  261 
+
+Energy Consumption-  770.77 kw
+Start Time-  13-12-2017 09:30
+End Time  -  13-12-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  36.62 kw
+Minimum Value-  19.42 kw
+Median Value-  31.11 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  262 
+
+Energy Consumption-  770.86 kw
+Start Time-  14-12-2017 09:30
+End Time  -  14-12-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  39.69 kw
+Minimum Value-  18.58 kw
+Median Value-  29.700000000000003 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  263 
+
+Energy Consumption-  857.06 kw
+Start Time-  15-12-2017 09:00
+End Time  -  15-12-2017 22:30
+Duration  -  840.0 mins
+Maximum Value-  37.78 kw
+Minimum Value-  18.21 kw
+Median Value-  30.79 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  264 
+
+Energy Consumption-  811.96 kw
+Start Time-  16-12-2017 09:30
+End Time  -  16-12-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  36.78 kw
+Minimum Value-  21.83 kw
+Median Value-  31.465000000000003 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  265 
+
+Energy Consumption-  791.72 kw
+Start Time-  17-12-2017 09:30
+End Time  -  17-12-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  37.36 kw
+Minimum Value-  20.92 kw
+Median Value-  31.66 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  266 
+
+Energy Consumption-  850.06 kw
+Start Time-  18-12-2017 08:30
+End Time  -  18-12-2017 21:30
+Duration  -  810.0 mins
+Maximum Value-  37.87 kw
+Minimum Value-  22.43 kw
+Median Value-  32.02 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  267 
+
+Energy Consumption-  789.91 kw
+Start Time-  19-12-2017 09:30
+End Time  -  19-12-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  37.64 kw
+Minimum Value-  15.33 kw
+Median Value-  30.505000000000003 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  268 
+
+Energy Consumption-  807.63 kw
+Start Time-  20-12-2017 09:00
+End Time  -  20-12-2017 21:30
+Duration  -  780.0 mins
+Maximum Value-  38.78 kw
+Minimum Value-  19.25 kw
+Median Value-  30.61 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  269 
+
+Energy Consumption-  841.36 kw
+Start Time-  21-12-2017 09:30
+End Time  -  21-12-2017 22:30
+Duration  -  810.0 mins
+Maximum Value-  38.66 kw
+Minimum Value-  17.76 kw
+Median Value-  30.5 kw
+Next Cycle After-  540.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  270 
+
+Energy Consumption-  864.77 kw
+Start Time-  22-12-2017 08:00
+End Time  -  22-12-2017 22:30
+Duration  -  900.0 mins
+Maximum Value-  37.18 kw
+Minimum Value-  15.34 kw
+Median Value-  29.64 kw
+Next Cycle After-  570.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  271 
+
+Energy Consumption-  775.71 kw
+Start Time-  23-12-2017 08:30
+End Time  -  23-12-2017 22:00
+Duration  -  840.0 mins
+Maximum Value-  36.81 kw
+Minimum Value-  16.22 kw
+Median Value-  28.905 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  272 
+
+Energy Consumption-  838.79 kw
+Start Time-  24-12-2017 08:30
+End Time  -  24-12-2017 22:00
+Duration  -  840.0 mins
+Maximum Value-  38.55 kw
+Minimum Value-  18.19 kw
+Median Value-  30.32 kw
+Next Cycle After-  2070.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  273 
+
+Energy Consumption-  803.26 kw
+Start Time-  26-12-2017 09:00
+End Time  -  26-12-2017 22:30
+Duration  -  840.0 mins
+Maximum Value-  35.72 kw
+Minimum Value-  15.18 kw
+Median Value-  29.29 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  274 
+
+Energy Consumption-  776.03 kw
+Start Time-  27-12-2017 09:30
+End Time  -  27-12-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  36.0 kw
+Minimum Value-  17.92 kw
+Median Value-  30.905 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  275 
+
+Energy Consumption-  849.75 kw
+Start Time-  28-12-2017 09:30
+End Time  -  28-12-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  38.9 kw
+Minimum Value-  17.81 kw
+Median Value-  33.84 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  276 
+
+Energy Consumption-  839.47 kw
+Start Time-  29-12-2017 09:00
+End Time  -  29-12-2017 22:00
+Duration  -  810.0 mins
+Maximum Value-  41.66 kw
+Minimum Value-  16.86 kw
+Median Value-  31.36 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  277 
+
+Energy Consumption-  791.88 kw
+Start Time-  30-12-2017 09:30
+End Time  -  30-12-2017 21:30
+Duration  -  750.0 mins
+Maximum Value-  37.47 kw
+Minimum Value-  17.78 kw
+Median Value-  31.49 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  278 
+
+Energy Consumption-  796.29 kw
+Start Time-  31-12-2017 09:30
+End Time  -  31-12-2017 22:00
+Duration  -  780.0 mins
+Maximum Value-  36.57 kw
+Minimum Value-  20.51 kw
+Median Value-  31.439999999999998 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  279 
+
+Energy Consumption-  861.24 kw
+Start Time-  01-01-2018 08:30
+End Time  -  01-01-2018 21:30
+Duration  -  810.0 mins
+Maximum Value-  38.8 kw
+Minimum Value-  20.34 kw
+Median Value-  32.3 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  280 
+
+Energy Consumption-  773.64 kw
+Start Time-  02-01-2018 09:30
+End Time  -  02-01-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  37.98 kw
+Minimum Value-  22.15 kw
+Median Value-  31.31 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  281 
+
+Energy Consumption-  781.79 kw
+Start Time-  03-01-2018 09:30
+End Time  -  03-01-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  38.31 kw
+Minimum Value-  20.71 kw
+Median Value-  31.06 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  282 
+
+Energy Consumption-  791.59 kw
+Start Time-  04-01-2018 09:30
+End Time  -  04-01-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  37.25 kw
+Minimum Value-  25.34 kw
+Median Value-  31.71 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  283 
+
+Energy Consumption-  861.82 kw
+Start Time-  05-01-2018 09:00
+End Time  -  05-01-2018 23:00
+Duration  -  870.0 mins
+Maximum Value-  37.41 kw
+Minimum Value-  17.11 kw
+Median Value-  29.84 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  284 
+
+Energy Consumption-  748.55 kw
+Start Time-  06-01-2018 09:30
+End Time  -  06-01-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  37.3 kw
+Minimum Value-  20.24 kw
+Median Value-  30.16 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  285 
+
+Energy Consumption-  778.3 kw
+Start Time-  07-01-2018 09:30
+End Time  -  07-01-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  39.13 kw
+Minimum Value-  22.5 kw
+Median Value-  30.98 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  286 
+
+Energy Consumption-  803.58 kw
+Start Time-  08-01-2018 09:00
+End Time  -  08-01-2018 21:30
+Duration  -  780.0 mins
+Maximum Value-  35.9 kw
+Minimum Value-  20.37 kw
+Median Value-  31.84 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  287 
+
+Energy Consumption-  807.16 kw
+Start Time-  09-01-2018 09:00
+End Time  -  09-01-2018 21:30
+Duration  -  780.0 mins
+Maximum Value-  35.5 kw
+Minimum Value-  17.24 kw
+Median Value-  31.240000000000002 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  288 
+
+Energy Consumption-  824.24 kw
+Start Time-  10-01-2018 09:30
+End Time  -  10-01-2018 22:00
+Duration  -  780.0 mins
+Maximum Value-  39.07 kw
+Minimum Value-  16.22 kw
+Median Value-  31.835 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  289 
+
+Energy Consumption-  693.11 kw
+Start Time-  11-01-2018 09:30
+End Time  -  11-01-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  32.57 kw
+Minimum Value-  19.68 kw
+Median Value-  28.05 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  290 
+
+Energy Consumption-  734.37 kw
+Start Time-  12-01-2018 09:30
+End Time  -  12-01-2018 22:00
+Duration  -  780.0 mins
+Maximum Value-  34.05 kw
+Minimum Value-  16.53 kw
+Median Value-  28.46 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  291 
+
+Energy Consumption-  777.68 kw
+Start Time-  13-01-2018 09:30
+End Time  -  13-01-2018 22:30
+Duration  -  810.0 mins
+Maximum Value-  35.69 kw
+Minimum Value-  16.0 kw
+Median Value-  29.34 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  292 
+
+Energy Consumption-  731.76 kw
+Start Time-  14-01-2018 09:30
+End Time  -  14-01-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  33.63 kw
+Minimum Value-  20.19 kw
+Median Value-  29.67 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  293 
+
+Energy Consumption-  671.88 kw
+Start Time-  15-01-2018 09:00
+End Time  -  15-01-2018 21:00
+Duration  -  750.0 mins
+Maximum Value-  36.85 kw
+Minimum Value-  20.87 kw
+Median Value-  26.29 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  294 
+
+Energy Consumption-  715.41 kw
+Start Time-  16-01-2018 09:30
+End Time  -  16-01-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  35.03 kw
+Minimum Value-  19.79 kw
+Median Value-  29.28 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  295 
+
+Energy Consumption-  625.78 kw
+Start Time-  17-01-2018 09:30
+End Time  -  17-01-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  30.44 kw
+Minimum Value-  15.22 kw
+Median Value-  25.83 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  296 
+
+Energy Consumption-  670.04 kw
+Start Time-  18-01-2018 09:30
+End Time  -  18-01-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  31.6 kw
+Minimum Value-  18.42 kw
+Median Value-  27.67 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  297 
+
+Energy Consumption-  658.19 kw
+Start Time-  19-01-2018 09:30
+End Time  -  19-01-2018 22:00
+Duration  -  780.0 mins
+Maximum Value-  31.69 kw
+Minimum Value-  18.9 kw
+Median Value-  25.375 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  298 
+
+Energy Consumption-  697.93 kw
+Start Time-  20-01-2018 09:30
+End Time  -  20-01-2018 22:00
+Duration  -  780.0 mins
+Maximum Value-  31.47 kw
+Minimum Value-  15.18 kw
+Median Value-  27.3 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  299 
+
+Energy Consumption-  701.46 kw
+Start Time-  21-01-2018 09:30
+End Time  -  21-01-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  33.65 kw
+Minimum Value-  19.61 kw
+Median Value-  28.02 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  300 
+
+Energy Consumption-  710.86 kw
+Start Time-  22-01-2018 08:30
+End Time  -  22-01-2018 21:30
+Duration  -  810.0 mins
+Maximum Value-  30.13 kw
+Minimum Value-  17.68 kw
+Median Value-  27.05 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  301 
+
+Energy Consumption-  698.74 kw
+Start Time-  23-01-2018 09:30
+End Time  -  23-01-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  32.66 kw
+Minimum Value-  20.17 kw
+Median Value-  28.07 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  302 
+
+Energy Consumption-  690.57 kw
+Start Time-  24-01-2018 09:30
+End Time  -  24-01-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  30.78 kw
+Minimum Value-  19.05 kw
+Median Value-  28.19 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  303 
+
+Energy Consumption-  722.78 kw
+Start Time-  25-01-2018 09:30
+End Time  -  25-01-2018 22:00
+Duration  -  780.0 mins
+Maximum Value-  32.7 kw
+Minimum Value-  17.24 kw
+Median Value-  28.685000000000002 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  304 
+
+Energy Consumption-  731.36 kw
+Start Time-  26-01-2018 09:00
+End Time  -  26-01-2018 21:30
+Duration  -  780.0 mins
+Maximum Value-  33.89 kw
+Minimum Value-  17.89 kw
+Median Value-  28.355 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  305 
+
+Energy Consumption-  732.61 kw
+Start Time-  27-01-2018 09:30
+End Time  -  27-01-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  34.75 kw
+Minimum Value-  22.91 kw
+Median Value-  28.54 kw
+Next Cycle After-  720.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  306 
+
+Energy Consumption-  712.06 kw
+Start Time-  28-01-2018 10:00
+End Time  -  28-01-2018 22:00
+Duration  -  750.0 mins
+Maximum Value-  32.18 kw
+Minimum Value-  15.36 kw
+Median Value-  29.3 kw
+Next Cycle After-  570.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  307 
+
+Energy Consumption-  766.91 kw
+Start Time-  29-01-2018 08:00
+End Time  -  29-01-2018 21:30
+Duration  -  840.0 mins
+Maximum Value-  33.5 kw
+Minimum Value-  17.51 kw
+Median Value-  27.49 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  308 
+
+Energy Consumption-  690.16 kw
+Start Time-  30-01-2018 09:30
+End Time  -  30-01-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  31.34 kw
+Minimum Value-  19.08 kw
+Median Value-  28.24 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  309 
+
+Energy Consumption-  701.85 kw
+Start Time-  31-01-2018 09:00
+End Time  -  31-01-2018 21:30
+Duration  -  780.0 mins
+Maximum Value-  29.72 kw
+Minimum Value-  15.91 kw
+Median Value-  27.35 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  310 
+
+Energy Consumption-  708.53 kw
+Start Time-  01-02-2018 09:30
+End Time  -  01-02-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  31.83 kw
+Minimum Value-  21.98 kw
+Median Value-  28.98 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  311 
+
+Energy Consumption-  702.07 kw
+Start Time-  02-02-2018 09:30
+End Time  -  02-02-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  32.35 kw
+Minimum Value-  19.18 kw
+Median Value-  28.59 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  312 
+
+Energy Consumption-  738.29 kw
+Start Time-  03-02-2018 09:00
+End Time  -  03-02-2018 22:00
+Duration  -  810.0 mins
+Maximum Value-  32.46 kw
+Minimum Value-  18.66 kw
+Median Value-  27.69 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  313 
+
+Energy Consumption-  699.48 kw
+Start Time-  04-02-2018 09:30
+End Time  -  04-02-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  32.81 kw
+Minimum Value-  22.1 kw
+Median Value-  27.9 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  314 
+
+Energy Consumption-  723.76 kw
+Start Time-  05-02-2018 08:00
+End Time  -  05-02-2018 21:30
+Duration  -  840.0 mins
+Maximum Value-  33.4 kw
+Minimum Value-  15.34 kw
+Median Value-  25.939999999999998 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  315 
+
+Energy Consumption-  654.02 kw
+Start Time-  06-02-2018 09:30
+End Time  -  06-02-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  31.26 kw
+Minimum Value-  17.53 kw
+Median Value-  26.37 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  316 
+
+Energy Consumption-  704.85 kw
+Start Time-  07-02-2018 09:30
+End Time  -  07-02-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  33.26 kw
+Minimum Value-  19.17 kw
+Median Value-  29.17 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  317 
+
+Energy Consumption-  746.39 kw
+Start Time-  08-02-2018 09:30
+End Time  -  08-02-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  35.49 kw
+Minimum Value-  18.37 kw
+Median Value-  31.16 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  318 
+
+Energy Consumption-  739.62 kw
+Start Time-  09-02-2018 09:30
+End Time  -  09-02-2018 22:00
+Duration  -  780.0 mins
+Maximum Value-  35.75 kw
+Minimum Value-  18.05 kw
+Median Value-  28.545 kw
+Next Cycle After-  570.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  319 
+
+Energy Consumption-  820.94 kw
+Start Time-  10-02-2018 08:00
+End Time  -  10-02-2018 22:00
+Duration  -  870.0 mins
+Maximum Value-  34.38 kw
+Minimum Value-  15.33 kw
+Median Value-  30.04 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  320 
+
+Energy Consumption-  870.32 kw
+Start Time-  11-02-2018 09:00
+End Time  -  11-02-2018 22:30
+Duration  -  840.0 mins
+Maximum Value-  37.07 kw
+Minimum Value-  16.38 kw
+Median Value-  32.9 kw
+Next Cycle After-  570.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  321 
+
+Energy Consumption-  789.44 kw
+Start Time-  12-02-2018 08:30
+End Time  -  12-02-2018 21:30
+Duration  -  810.0 mins
+Maximum Value-  35.86 kw
+Minimum Value-  18.74 kw
+Median Value-  29.3 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  322 
+
+Energy Consumption-  802.2 kw
+Start Time-  13-02-2018 09:30
+End Time  -  13-02-2018 22:00
+Duration  -  780.0 mins
+Maximum Value-  38.18 kw
+Minimum Value-  15.44 kw
+Median Value-  31.755 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  323 
+
+Energy Consumption-  741.74 kw
+Start Time-  14-02-2018 09:30
+End Time  -  14-02-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  38.42 kw
+Minimum Value-  20.12 kw
+Median Value-  29.48 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  324 
+
+Energy Consumption-  825.0 kw
+Start Time-  15-02-2018 09:30
+End Time  -  15-02-2018 22:00
+Duration  -  780.0 mins
+Maximum Value-  37.41 kw
+Minimum Value-  23.27 kw
+Median Value-  32.19 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  325 
+
+Energy Consumption-  871.34 kw
+Start Time-  16-02-2018 09:00
+End Time  -  16-02-2018 22:30
+Duration  -  840.0 mins
+Maximum Value-  41.89 kw
+Minimum Value-  18.01 kw
+Median Value-  31.09 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  326 
+
+Energy Consumption-  676.95 kw
+Start Time-  17-02-2018 09:30
+End Time  -  17-02-2018 19:30
+Duration  -  630.0 mins
+Maximum Value-  39.19 kw
+Minimum Value-  27.27 kw
+Median Value-  31.52 kw
+Next Cycle After-  90.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  327 
+
+Energy Consumption-  184.72 kw
+Start Time-  17-02-2018 21:30
+End Time  -  18-02-2018 02:00
+Duration  -  300.0 mins
+Maximum Value-  22.98 kw
+Minimum Value-  15.36 kw
+Median Value-  17.265 kw
+Next Cycle After-  390.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  328 
+
+Energy Consumption-  831.59 kw
+Start Time-  18-02-2018 09:00
+End Time  -  18-02-2018 22:00
+Duration  -  810.0 mins
+Maximum Value-  38.63 kw
+Minimum Value-  15.89 kw
+Median Value-  31.08 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  329 
+
+Energy Consumption-  802.15 kw
+Start Time-  19-02-2018 08:30
+End Time  -  19-02-2018 21:30
+Duration  -  810.0 mins
+Maximum Value-  34.88 kw
+Minimum Value-  21.66 kw
+Median Value-  30.53 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  330 
+
+Energy Consumption-  780.52 kw
+Start Time-  20-02-2018 09:30
+End Time  -  20-02-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  38.51 kw
+Minimum Value-  21.62 kw
+Median Value-  32.01 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  331 
+
+Energy Consumption-  803.74 kw
+Start Time-  21-02-2018 09:30
+End Time  -  21-02-2018 22:00
+Duration  -  780.0 mins
+Maximum Value-  36.58 kw
+Minimum Value-  16.94 kw
+Median Value-  31.32 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  332 
+
+Energy Consumption-  804.17 kw
+Start Time-  22-02-2018 09:30
+End Time  -  22-02-2018 22:00
+Duration  -  780.0 mins
+Maximum Value-  36.97 kw
+Minimum Value-  18.17 kw
+Median Value-  31.47 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  333 
+
+Energy Consumption-  771.46 kw
+Start Time-  23-02-2018 09:30
+End Time  -  23-02-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  38.49 kw
+Minimum Value-  23.05 kw
+Median Value-  31.66 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  334 
+
+Energy Consumption-  837.56 kw
+Start Time-  24-02-2018 09:30
+End Time  -  24-02-2018 22:30
+Duration  -  810.0 mins
+Maximum Value-  38.06 kw
+Minimum Value-  18.5 kw
+Median Value-  32.38 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  335 
+
+Energy Consumption-  834.72 kw
+Start Time-  25-02-2018 09:00
+End Time  -  25-02-2018 22:00
+Duration  -  810.0 mins
+Maximum Value-  37.81 kw
+Minimum Value-  16.41 kw
+Median Value-  31.87 kw
+Next Cycle After-  570.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  336 
+
+Energy Consumption-  832.26 kw
+Start Time-  26-02-2018 08:00
+End Time  -  26-02-2018 21:30
+Duration  -  840.0 mins
+Maximum Value-  35.34 kw
+Minimum Value-  18.1 kw
+Median Value-  30.165 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  337 
+
+Energy Consumption-  1926.51 kw
+Start Time-  27-02-2018 09:30
+End Time  -  28-02-2018 21:30
+Duration  -  2190.0 mins
+Maximum Value-  37.76 kw
+Minimum Value-  15.79 kw
+Median Value-  27.62 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  338 
+
+Energy Consumption-  746.63 kw
+Start Time-  01-03-2018 09:30
+End Time  -  01-03-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  35.34 kw
+Minimum Value-  24.58 kw
+Median Value-  29.84 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  339 
+
+Energy Consumption-  850.93 kw
+Start Time-  02-03-2018 08:30
+End Time  -  02-03-2018 21:30
+Duration  -  810.0 mins
+Maximum Value-  38.16 kw
+Minimum Value-  16.79 kw
+Median Value-  32.58 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  340 
+
+Energy Consumption-  815.27 kw
+Start Time-  03-03-2018 09:30
+End Time  -  03-03-2018 22:00
+Duration  -  780.0 mins
+Maximum Value-  36.14 kw
+Minimum Value-  19.62 kw
+Median Value-  32.3 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  341 
+
+Energy Consumption-  801.88 kw
+Start Time-  04-03-2018 09:30
+End Time  -  04-03-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  36.66 kw
+Minimum Value-  25.72 kw
+Median Value-  32.33 kw
+Next Cycle After-  570.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  342 
+
+Energy Consumption-  841.51 kw
+Start Time-  05-03-2018 07:30
+End Time  -  05-03-2018 21:30
+Duration  -  870.0 mins
+Maximum Value-  37.1 kw
+Minimum Value-  16.19 kw
+Median Value-  30.7 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  343 
+
+Energy Consumption-  813.11 kw
+Start Time-  06-03-2018 09:30
+End Time  -  06-03-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  38.32 kw
+Minimum Value-  26.7 kw
+Median Value-  31.92 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  344 
+
+Energy Consumption-  765.01 kw
+Start Time-  07-03-2018 09:30
+End Time  -  07-03-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  38.47 kw
+Minimum Value-  17.72 kw
+Median Value-  30.73 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  345 
+
+Energy Consumption-  788.3 kw
+Start Time-  08-03-2018 09:30
+End Time  -  08-03-2018 23:00
+Duration  -  840.0 mins
+Maximum Value-  34.98 kw
+Minimum Value-  17.44 kw
+Median Value-  29.395 kw
+Next Cycle After-  600.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  346 
+
+Energy Consumption-  729.81 kw
+Start Time-  09-03-2018 09:30
+End Time  -  09-03-2018 22:00
+Duration  -  780.0 mins
+Maximum Value-  33.94 kw
+Minimum Value-  22.14 kw
+Median Value-  27.725 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  347 
+
+Energy Consumption-  745.6 kw
+Start Time-  10-03-2018 09:30
+End Time  -  10-03-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  35.49 kw
+Minimum Value-  23.74 kw
+Median Value-  30.29 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  348 
+
+Energy Consumption-  779.28 kw
+Start Time-  11-03-2018 09:00
+End Time  -  11-03-2018 22:00
+Duration  -  810.0 mins
+Maximum Value-  38.43 kw
+Minimum Value-  19.81 kw
+Median Value-  28.68 kw
+Next Cycle After-  420.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  349 
+
+Energy Consumption-  56.4 kw
+Start Time-  12-03-2018 05:30
+End Time  -  12-03-2018 06:30
+Duration  -  90.0 mins
+Maximum Value-  22.26 kw
+Minimum Value-  15.22 kw
+Median Value-  18.92 kw
+Next Cycle After-  30.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  350 
+
+Energy Consumption-  821.85 kw
+Start Time-  12-03-2018 07:30
+End Time  -  12-03-2018 21:30
+Duration  -  870.0 mins
+Maximum Value-  36.44 kw
+Minimum Value-  17.5 kw
+Median Value-  29.33 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  351 
+
+Energy Consumption-  726.29 kw
+Start Time-  13-03-2018 08:30
+End Time  -  13-03-2018 21:30
+Duration  -  810.0 mins
+Maximum Value-  34.42 kw
+Minimum Value-  15.87 kw
+Median Value-  26.94 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  352 
+
+Energy Consumption-  771.56 kw
+Start Time-  14-03-2018 09:00
+End Time  -  14-03-2018 21:30
+Duration  -  780.0 mins
+Maximum Value-  36.22 kw
+Minimum Value-  16.8 kw
+Median Value-  29.715 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  353 
+
+Energy Consumption-  786.38 kw
+Start Time-  15-03-2018 09:30
+End Time  -  15-03-2018 22:00
+Duration  -  780.0 mins
+Maximum Value-  34.51 kw
+Minimum Value-  17.98 kw
+Median Value-  31.854999999999997 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  354 
+
+Energy Consumption-  809.49 kw
+Start Time-  16-03-2018 09:00
+End Time  -  16-03-2018 21:30
+Duration  -  780.0 mins
+Maximum Value-  38.14 kw
+Minimum Value-  20.25 kw
+Median Value-  31.31 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  355 
+
+Energy Consumption-  822.1 kw
+Start Time-  17-03-2018 09:30
+End Time  -  17-03-2018 22:30
+Duration  -  810.0 mins
+Maximum Value-  37.97 kw
+Minimum Value-  20.77 kw
+Median Value-  30.42 kw
+Next Cycle After-  510.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  356 
+
+Energy Consumption-  906.43 kw
+Start Time-  18-03-2018 07:30
+End Time  -  18-03-2018 22:00
+Duration  -  900.0 mins
+Maximum Value-  38.46 kw
+Minimum Value-  22.6 kw
+Median Value-  30.595 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  357 
+
+Energy Consumption-  819.15 kw
+Start Time-  19-03-2018 09:00
+End Time  -  19-03-2018 21:30
+Duration  -  780.0 mins
+Maximum Value-  39.38 kw
+Minimum Value-  23.31 kw
+Median Value-  31.03 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  358 
+
+Energy Consumption-  766.28 kw
+Start Time-  20-03-2018 09:30
+End Time  -  20-03-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  36.9 kw
+Minimum Value-  20.18 kw
+Median Value-  30.49 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  359 
+
+Energy Consumption-  796.3 kw
+Start Time-  21-03-2018 09:00
+End Time  -  21-03-2018 21:30
+Duration  -  780.0 mins
+Maximum Value-  37.18 kw
+Minimum Value-  16.64 kw
+Median Value-  30.67 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  360 
+
+Energy Consumption-  791.04 kw
+Start Time-  22-03-2018 09:30
+End Time  -  22-03-2018 22:00
+Duration  -  780.0 mins
+Maximum Value-  37.94 kw
+Minimum Value-  22.51 kw
+Median Value-  31.14 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  361 
+
+Energy Consumption-  809.89 kw
+Start Time-  23-03-2018 09:00
+End Time  -  23-03-2018 22:00
+Duration  -  810.0 mins
+Maximum Value-  37.27 kw
+Minimum Value-  16.6 kw
+Median Value-  30.82 kw
+Next Cycle After-  660.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  362 
+
+Energy Consumption-  763.83 kw
+Start Time-  24-03-2018 09:30
+End Time  -  24-03-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  37.26 kw
+Minimum Value-  18.23 kw
+Median Value-  30.78 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  363 
+
+Energy Consumption-  695.93 kw
+Start Time-  25-03-2018 09:30
+End Time  -  25-03-2018 22:00
+Duration  -  780.0 mins
+Maximum Value-  32.39 kw
+Minimum Value-  18.78 kw
+Median Value-  27.965 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  364 
+
+Energy Consumption-  769.76 kw
+Start Time-  26-03-2018 09:00
+End Time  -  26-03-2018 21:30
+Duration  -  780.0 mins
+Maximum Value-  35.36 kw
+Minimum Value-  15.3 kw
+Median Value-  29.405 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  365 
+
+Energy Consumption-  725.41 kw
+Start Time-  27-03-2018 09:30
+End Time  -  27-03-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  34.06 kw
+Minimum Value-  17.04 kw
+Median Value-  30.57 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  366 
+
+Energy Consumption-  770.66 kw
+Start Time-  28-03-2018 09:30
+End Time  -  28-03-2018 21:30
+Duration  -  750.0 mins
+Maximum Value-  37.99 kw
+Minimum Value-  20.5 kw
+Median Value-  31.25 kw
+Next Cycle After-  690.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  367 
+
+Energy Consumption-  799.88 kw
+Start Time-  29-03-2018 09:30
+End Time  -  29-03-2018 22:00
+Duration  -  780.0 mins
+Maximum Value-  37.59 kw
+Minimum Value-  17.57 kw
+Median Value-  31.96 kw
+Next Cycle After-  630.0 mins
+***************************************************
+
+
+***************************************************
+
+--CYCLE No.  368 
+
+Energy Consumption-  886.78 kw
+Start Time-  30-03-2018 09:00
+End Time  -  31-03-2018 00:30
+Duration  -  960.0 mins
+Maximum Value-  38.58 kw
+Minimum Value-  15.41 kw
+Median Value-  29.05 kw
+Next Cycle After-  0.0 mins
+***************************************************
+
+
+
+-------------------------------------------------------------------
