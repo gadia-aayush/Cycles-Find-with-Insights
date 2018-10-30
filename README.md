@@ -43,9 +43,9 @@ The below format must be followed for the successful running of the script:
 
 3. **Input String ::**
 
-	 - Off- Value viz basically the Y- Values or the Energy Data taken as Input.
-	 - it must be passed in the third argument of sys.argv. 
-	 - it must be passed as JSON String.
+	 - Off- Value viz basically the Y- Values or the Energy Data taken as Input. 
+	 - it must be passed in the third argument of sys.argv.
+	 - it must be passed as JSON String.  
 	 - **the JSON String, alternatively the dictionary data structure should have the following Key Names::**  
 		 `1. input :: it must contain the Off- Value.	[Example :: {"input" : 5} ]`
 
@@ -54,7 +54,7 @@ The below format must be followed for the successful running of the script:
    ---------------------------------------------------------------------------------------------------------------
 
 4. **Output String ::**
-	 - it is passed as a JSON String.
+   - it is passed as a JSON String.
    - **the Overview of the entire Data & all the Insights of all the Cycles are passed in the Output.**
     - **Folowing Overview are given :**  
           - Total Number of Cycles  
