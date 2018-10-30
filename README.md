@@ -65,7 +65,7 @@ The below format must be followed for the successful running of the script:
           - Comment on Cycle Ending Nature    
           - Comment on whether Data above Off Value or not (not always)    
 
-    - **Folowing Insights are given :**
+    - **Folowing Insights are given :**  
           - Energy Consumption in kw  
           - Cycle Start Time  
           - Cycle End Time  
@@ -75,7 +75,7 @@ The below format must be followed for the successful running of the script:
           - Median Value of Energy in kw  
           - Duration after which Next Cycle is seen in mins 
 
-   **NOTE :: All the Overview & Insights are given as per the Off- Value entered, it changes on changing                                the Off- Value.**
+     ***NOTE :: All the Overview & Insights are given as per the Off- Value entered, it changes on changing                                the Off- Value.***
 
    ----------------------------------------------------------------------------------------------------------------   
 
