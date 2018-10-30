@@ -47,9 +47,8 @@ The below format must be followed for the successful running of the script:
 	 - it must be passed in the third argument of sys.argv.
 	 - it must be passed as JSON String.  
 	 - **the JSON String, alternatively the dictionary data structure should have the following Key Names::**  
-		 `1. input :: it must contain the Off- Value.	[Example :: {"input" : 5} ]`
-
-	  **CAUTION: The above Key Names are case-sensitive, so use exactly as written above.**
+	     `a. input :: it must contain the Off- Value.	[Example :: {"input" : 5} ]`  
+	     **CAUTION: The above Key Names are case-sensitive, so use exactly as written above.**
 
    ---------------------------------------------------------------------------------------------------------------
 
