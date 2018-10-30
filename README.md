@@ -48,6 +48,7 @@ The below format must be followed for the successful running of the script:
 	 - it must be passed as JSON String.  
 	 - **the JSON String, alternatively the dictionary data structure should have the following Key Names::**  
 	     `a. input :: it must contain the Off- Value.	[Example :: {"input" : 5} ]`  
+	     
 	     **CAUTION: The above Key Names are case-sensitive, so use exactly as written above.**
 
    ---------------------------------------------------------------------------------------------------------------
@@ -80,12 +81,12 @@ The below format must be followed for the successful running of the script:
 
 5. **Codebook ::**
 
-  - Comment_1 :: Cycle was On from Previous
-  - Comment_2 :: Cycle was Off from Previous					  
-  - Comment_3 :: All Data Below Off- Value
-  - Comment_4 :: All Data Above Off- Value
-  - Comment_5 :: Cycle was On till the End
-  - Comment_6 :: Cycle was Off at the End					  
+	  - Comment_1 :: Cycle was On from Previous
+	  - Comment_2 :: Cycle was Off from Previous					  
+	  - Comment_3 :: All Data Below Off- Value
+	  - Comment_4 :: All Data Above Off- Value
+	  - Comment_5 :: Cycle was On till the End
+	  - Comment_6 :: Cycle was Off at the End					  
 
 -------------------------------------------------------------------------------------------------------------------	
 
